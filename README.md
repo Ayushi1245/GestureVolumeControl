@@ -9,11 +9,6 @@ The Gesture Volume Control ML Model is a machine learning project that enables u
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
